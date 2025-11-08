@@ -11,3 +11,6 @@ function initMap() {
                     title: 'Georgia State University',
                });
             }    
+        
+
+            //add loc marker for each loc tabbed
